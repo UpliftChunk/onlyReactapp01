@@ -27,6 +27,15 @@
       "dob": "2025-05-06",
       "Image": "https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg",
       "id": 4
+    }
+  ],
+  "discardedUsers": [
+    {
+      "name": "Rakul",
+      "email": "colaMaaza@mail.org",
+      "dob": "2019-07-18",
+      "Image": "https://www.adgully.com/img/800/201811/maaza-rakul.jpg",
+      "id": 6
     },
     {
       "name": "Mike Samueal",
@@ -34,14 +43,6 @@
       "dob": "2019-10-13",
       "Image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://marketinghire.com/wp-content/uploads/elementor/thumbs/business-professional-podcasting-q1js3n5aq3molq4z3xut9r637d2d8dkjxer7mg3v60.jpg",
       "id": 5
-    },
-    {
-      "name": "Rakul",
-      "email": "colaMaaza@mail.org",
-      "dob": "2019-07-18",
-      "Image": "https://www.adgully.com/img/800/201811/maaza-rakul.jpg",
-      "id": 6
     }
-  ],
-  "discardedUsers": []
+  ]
 }
