@@ -1,1 +1,5 @@
+Install :
 npm i react-bootstrap bootstrap react-icons react-hook-form react-router-dom axios json-server
+
+run db server:
+npx json-server --watch dbusers.json --port=4000
