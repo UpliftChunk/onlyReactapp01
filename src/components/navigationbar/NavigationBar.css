@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Anuphan:wght@400;700&family=Dancing+Script&family=Edu+SA+Beginner:wght@700&family=Montserrat:wght@700&family=Paytone+One&display=swap');
+
+.custstyles{
+   font-family: 'Anuphan', sans-serif;
+   display: flex;
+   gap: 5px;
+}
+.fixricon{
+   margin-bottom: 2px;
+}

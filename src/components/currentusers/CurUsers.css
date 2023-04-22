@@ -1,0 +1,8 @@
+.card1{
+   min-height: 230px;
+}
+.userPhoto{
+   width: 100%;
+   height: 200px;
+   object-fit: cover;
+ }

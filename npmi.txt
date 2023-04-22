@@ -1,0 +1,1 @@
+npm i react-bootstrap bootstrap react-icons react-hook-form react-router-dom axios json-server

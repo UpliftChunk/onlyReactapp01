@@ -1,0 +1,14 @@
+
+.btFooter{
+    position: relative;
+}
+
+/* todo: make a pic relatively fit in a box positioned absolute  */
+.btFooter .picture{
+    position: relative;
+    background-image: url("../media/appBottom2.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    inset: 0;
+ }

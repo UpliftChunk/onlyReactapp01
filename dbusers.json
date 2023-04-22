@@ -1,0 +1,47 @@
+{
+  "currentUsers": [
+    {
+      "name": "Tree",
+      "email": "trinsta120d@gmail.com",
+      "dob": "2023-04-03",
+      "Image": "https://images.unsplash.com/photo-1610823796603-59669e8ee29c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8&w=1000&q=80",
+      "id": 1
+    },
+    {
+      "name": "Banaras",
+      "email": "Justhalts@gmail.com",
+      "dob": "2023-04-30",
+      "Image": "https://metro.co.uk/wp-content/uploads/2015/12/rainbow-igloo-91.jpg",
+      "id": 2
+    },
+    {
+      "name": "KABANERI",
+      "email": "ironFortress@gmail.com",
+      "dob": "2023-05-19",
+      "Image": "https://i0.wp.com/www.crymore.net/wp-content/uploads/2016/04/Amazon_-_Kabaneri_Typesetting_01.png",
+      "id": 3
+    },
+    {
+      "name": "onnuts",
+      "email": "codechef@outmail.in",
+      "dob": "2025-05-06",
+      "Image": "https://static.startuptalky.com/2021/04/codechef-logo-startuptalky.jpg",
+      "id": 4
+    },
+    {
+      "name": "Mike Samueal",
+      "email": "mike@vnrvjiet.in",
+      "dob": "2019-10-13",
+      "Image": "https://sp-ao.shortpixel.ai/client/to_webp,q_lossy,ret_img/https://marketinghire.com/wp-content/uploads/elementor/thumbs/business-professional-podcasting-q1js3n5aq3molq4z3xut9r637d2d8dkjxer7mg3v60.jpg",
+      "id": 5
+    },
+    {
+      "name": "Rakul",
+      "email": "colaMaaza@mail.org",
+      "dob": "2019-07-18",
+      "Image": "https://www.adgully.com/img/800/201811/maaza-rakul.jpg",
+      "id": 6
+    }
+  ],
+  "discardedUsers": []
+}
